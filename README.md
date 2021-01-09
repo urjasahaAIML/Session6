@@ -4,6 +4,7 @@
 TODO: Describe the installation process
 
 ## Link to Validation Accuracy graph:
+https://github.com/tapasML/Session6/blob/main/validation_accuracy.png
 
 ## Link to Loss curve graph:
 
