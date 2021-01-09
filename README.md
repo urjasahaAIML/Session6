@@ -29,5 +29,7 @@ ghostGroups = 8 # number of 'Ghost' groups
 Each choice (1-5) creates a loop for model and runs 25 epochs, saves the last epoch validation loss, accuracy statistics in global array
 Misclassified images are captured only in last epoch (25th)
 Regularization block defines the GhostNorm() function
+Choice 4,5 (with GhostBN) is run with higher learning rate.
+Dropout is not used
 
 
