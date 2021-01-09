@@ -1,12 +1,13 @@
 # Session6 Assignment Submission
 
 ## Link to Assignment
-TODO: Describe the installation process
+https://github.com/tapasML/Session6/blob/main/Assignment_6_submission.ipynb
 
 ## Link to Validation Accuracy graph:
 https://github.com/tapasML/Session6/blob/main/validation_accuracy.png
 
 ## Link to Loss curve graph:
+https://github.com/tapasML/Session6/blob/main/validation_loss.png
 
 ## Link to mis classified images:
 https://github.com/tapasML/Session6/blob/main/misclassified.png
