@@ -1,16 +1,16 @@
 # Session6 Assignment Submission
 
 ## Link to Assignment
-https://github.com/tapasML/Session6/blob/main/Assignment_6_submission.ipynb
+https://github.com/urjasahaAIML/Session6/blob/main/Assignment_6_submission.ipynb
 
 ## Link to Validation Accuracy graph:
-https://github.com/tapasML/Session6/blob/main/validation_accuracy.png
+https://github.com/urjasahaAIML/Session6/blob/main/validation_accuracy.png
 
 ## Link to Loss curve graph:
-https://github.com/tapasML/Session6/blob/main/validation_loss.png
+https://github.com/urjasahaAIML/Session6/blob/main/validation_loss.png
 
 ## Link to mis classified images:
-https://github.com/tapasML/Session6/blob/main/misclassified.png
+https://github.com/urjasahaAIML/Session6/blob/main/misclassified.png
 
 
 ## Details about the code:
